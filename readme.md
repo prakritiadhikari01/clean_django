@@ -26,6 +26,15 @@ This is a beginner-friendly Django project demonstrating **code reusability** an
    ```bash
    pip install -r requirements.txt
 
+   # requirements.txt
+    ```plaintext
+    Django>=4.0,<5.0
+    djangorestframework>=3.12,<4.0
+    python-dotenv>=0.20.0
+    psycopg2-binary>=2.9
+    gunicorn>=20.1.0
+
+
 4. **Create a .env file**
    ```bash
     DEBUG=True
