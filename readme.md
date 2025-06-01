@@ -10,24 +10,6 @@ This is a beginner-friendly Django project demonstrating **code reusability** an
 - ✅ GitHub version control with `.gitignore` and `.env.example`
 
 ---
-
-## 📁 Project Structure
-
-myproject/
-├── posts/
-│ ├── models.py
-│ ├── admin.py
-│ └── ...
-├── myproject/
-│ └── settings.py
-├── .env
-├── .env.example
-├── .gitignore
-└── README.md
-
-
----
-
 ## 🔧 Setup Instructions
 
 1. **Clone the repo**
