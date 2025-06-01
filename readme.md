@@ -69,7 +69,7 @@ All models inherit from `BaseTimestampModel` to keep timestamps consistent:
 
 # 🔗 GitHub
 
-📍 [GitHub Repository Link](#) *(https://github.com/prakritiadhikari01/clean_django)*
+📍 [GitHub Repository Link](https://github.com/prakritiadhikari01/clean_django)
 
 ---
 
