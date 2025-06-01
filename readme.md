@@ -26,11 +26,10 @@ This is a beginner-friendly Django project demonstrating **code reusability** an
    ```bash
    pip install -r requirements.txt
 
-The following dependencies are required (requirements.txt):
-
-   ```txt
-   Django>=4.0,<5.0
-   python-decouple>=3.8
+   # requirements.txt
+    ```plaintext
+    Django>=4.0,<5.0
+    python-decouple>=3.8
 
 4. **Create a .env file**
    ```bash
