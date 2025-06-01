@@ -29,10 +29,7 @@ This is a beginner-friendly Django project demonstrating **code reusability** an
    # requirements.txt
     ```plaintext
     Django>=4.0,<5.0
-    djangorestframework>=3.12,<4.0
-    python-dotenv>=0.20.0
-    psycopg2-binary>=2.9
-    gunicorn>=20.1.0
+    python-decouple>=3.8
 
 
 4. **Create a .env file**
